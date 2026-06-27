@@ -60,18 +60,18 @@ The dataset contains simulated retail data, including:
 ## 📊 Visual Insights
 
 ### Sales by Category
-![Sales by Category](Screenshots/SalesbyCategory.png)
+![Sales by Category](/SalesbyCategory.png)
 
 ---
 
 ### Top Products
 
-![Top Products](Screenshots/Top5.png)
+![Top Products](/Top5.png)
 
 ---
 
 ### Store Performance
-![Store Performance](Screenshots/StorePerformance.png)
+![Store Performance](/StorePerformance.png)
 
 ---
 
