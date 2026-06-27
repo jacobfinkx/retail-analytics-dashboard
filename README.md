@@ -53,7 +53,7 @@ The dataset contains simulated retail data, including:
 
 ## 📈 Dashboard Preview
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](/Dashboard.png)
 
 ---
 
