@@ -77,7 +77,7 @@ The dataset contains simulated retail data, including:
 
 ## 🔍 SQL Example
 
-![SQL Query](Screenshots/SQL_query.png)
+![SQL Query](/SQL_query.png)
 
 ---
 
