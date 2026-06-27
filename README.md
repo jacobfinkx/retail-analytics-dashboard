@@ -4,6 +4,12 @@
 This project is an end-to-end retail analytics solution designed to analyze sales performance and generate business insights. The project demonstrates the use of SQL for data processing, Excel for initial analysis, and Power BI for building an interactive dashboard.
 
 ---
+## 🔗 Project Links
+
+- **Power BI Dashboard:** [View Dashboard](Retail_Analytics_Dashboard_PowerBI.pbix)  
+- **SQL Script:** [View SQL File](Retail_Analytics_SQL.sql)  
+
+---
 
 ## ⚙️ Tools & Technologies
 - **SQL (MySQL)** – Data modeling, joins, and aggregations  
